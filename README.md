@@ -1,2 +1,5 @@
 # my_pyneng
-My PyNEng repo
+Solution rep from https://github.com/smithy1208/my_pyneng
+
+Thanks to much smithy1208!!!
+
